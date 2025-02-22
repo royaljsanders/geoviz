@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_name": "National Road",
+        "segment_name": "Cumberland-Wheeling",
+        "start_year": 1811,
+        "end_year": 1818
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-78.7625, 39.6528],
+          [-80.7209, 40.0630]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_name": "National Road",
+        
+        "segment_name": "Wheeling-Columbus",
+        "start_year": 1825,
+        "end_year": 1833
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-80.7209, 40.0630],
+          [-82.9988, 39.9612]
+        ]
+      }
+    }
+  ]
+}
+
